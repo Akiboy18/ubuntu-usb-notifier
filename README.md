@@ -1,6 +1,8 @@
 # ubuntu-usb-notifier
 A lightweight background bash script for Ubuntu that monitors hardware connections to instantly play a custom audio sound and push a desktop notification banner when your specific pen drive is inserted.
 
+This works only if the your specific pendrive(exact UUID) is mounted in your Ubuntu. For different pendrives, you can have different kind of notifications and sounds according to your creativity. I have used a random game sound that which i found in internet. Make sure that the audio file is in .wav format or .ogg format.
+
 ## Setup Instructions
 
 ### 1. Get your USB UUID
